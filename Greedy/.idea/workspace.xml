@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b5228ab-5a4d-4d4b-b23e-0fadf43370c1" name="변경" comment="" />
+    <list default="true" id="8b5228ab-5a4d-4d4b-b23e-0fadf43370c1" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Greedy01/Greedy01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greedy01/Greedy01.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -21,7 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NQ8cZiVAlz1zm80yOrwcu7KZwZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -29,10 +38,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Greedy02">
+  <component name="RunManager" selected="애플리케이션.Greedy01">
     <configuration name="Greedy01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greedy01.Greedy01" />
       <module name="Greedy" />
@@ -59,10 +76,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Greedy03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy03.Greedy03" />
+      <module name="Greedy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Greedy03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Greedy02" />
         <item itemvalue="애플리케이션.Greedy01" />
+        <item itemvalue="애플리케이션.Greedy03" />
+        <item itemvalue="애플리케이션.Greedy02" />
       </list>
     </recent_temporary>
   </component>
@@ -74,7 +105,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679585026579</updated>
-      <workItem from="1679585027781" duration="34000" />
+      <workItem from="1679585027781" duration="283000" />
+      <workItem from="1679919458335" duration="1225000" />
+      <workItem from="1680159648051" duration="596000" />
+      <workItem from="1684942583063" duration="1052000" />
+      <workItem from="1688982682317" duration="1007000" />
     </task>
     <servers />
   </component>
