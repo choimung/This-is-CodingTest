@@ -1,10 +1,14 @@
 package Greedy01;
+
+import java.util.Scanner;
+
 /**
  * 거스름돈 알고리즘
  */
 public class Greedy01 {
     public static void main(String[] args){
-        int N = 1260;
+        Scanner sc = new Scanner(System.in);
+        int N = sc.nextInt();
         int count = 0;
         int[] coinType = {500,100,50,10};
 
